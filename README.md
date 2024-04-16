@@ -5,7 +5,7 @@
 
 <h4>- 🌱 I’m currently learning **C# language.**</h4>
 
-<h4>- 👯 I’m looking to collaborate on an amazing project I found on youtube [(check the link)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) :)</h4>
+<h4>- 👯 I’m looking to collaborate on an amazing project I found on youtube <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">check the link</a> :)</h4>
 
 <h4>- ⚡ Fun fact **I survived sysop2023.**</h4>  
 
