@@ -14,4 +14,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulaszka&show_icons=true&locale=en&layout=compact" alt="paulaszka" /></p>
 
-<a href="https://github.com/paulaszka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaszka&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=404040&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/paulaszka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaszka&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
