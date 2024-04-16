@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Paulina</h1>
-<h3 align="center">A passionate fullstack developer from Poland</h3>
+<h3 align="center">A passionate fullstack developer from Poland.</h3>
 
-- 🔭 I’m currently working on **concurrent programming project.**
+- 🔭 I’m currently working on ** a concurrent programming project.**
 
 - 🌱 I’m currently learning **C# language.**
 
-- 👯 I’m looking to collaborate on [an amazing project I found on youtube (check the link) :)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 👯 I’m looking to collaborate on an amazing project I found on youtube [(check the link)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) :)
 
 - ⚡ Fun fact **I survived sysop2023.**
 
