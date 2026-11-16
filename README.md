@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://paulinaszczepaniak.pl"><img src="https://img.shields.io/badge/Portfolio-a766cc?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/paulina-szczepaniak-9b0264358"><img src="https://img.shields.io/badge/LinkedIn-a766cc?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/paulina-szczepaniak-9b0264358"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-a766cc?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://zindi.africa/users/TWOJ-PROFIL"><img src="https://img.shields.io/badge/Zindi-a766cc?style=for-the-badge" /></a>
   <a href="https://www.kaggle.com/TWOJ-PROFIL"><img src="https://img.shields.io/badge/Kaggle-a766cc?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
