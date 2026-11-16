@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://paulinaszczepaniak.pl"></a>
-  <a href="https://www.linkedin.com/in/paulina-szczepaniak-9b0264358"></a>
+  <a href="https://paulinaszczepaniak.pl"><img src="https://img.shields.io/badge/Portfolio-a766cc?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/paulina-szczepaniak-9b0264358/"><img src="https://img.shields.io/badge/LinkedIn-a766cc?style=for-the-badge" /></a>
 </p>
 
 ---
