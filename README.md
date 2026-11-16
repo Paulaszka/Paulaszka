@@ -58,3 +58,10 @@
   </a>
   <img height="170" src="https://github-readme-stats.vercel.app/api/?username=paulaszka&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=a766cc&hide_border=true" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/paulaszka">
+    <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=paulaszka&layout=compact&langs_count=8&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=a766cc&hide_border=true&custom_title=Top%20Languages" />
+  </a>
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/?username=paulaszka&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=a766cc&hide_border=true" />
+</p>
