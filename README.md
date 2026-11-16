@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulina</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A766CC&center=true&vCenter=true&width=520&lines=Aspiring+Data+Scientist+📊;Machine+Learning+%26+Big+Data+🤖;Board+game+geek+🎲;Zindi+podium+finisher+🥈" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A766CC&center=true&vCenter=true&width=520&lines=Aspiring+Data+Scientist;Machine+Learning+%26+Big+Data;Board+game+geek;Zindi+podium+finisher" alt="Typing SVG" />
 </p>
 
 <p align="center">
