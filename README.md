@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://paulinaszczepaniak.pl"><img src="https://img.shields.io/badge/Portfolio-a766cc?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TWOJ-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-a766cc?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/paulina-szczepaniak-9b0264358"><img src="https://img.shields.io/badge/LinkedIn-a766cc?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://zindi.africa/users/TWOJ-PROFIL"><img src="https://img.shields.io/badge/Zindi-a766cc?style=for-the-badge" /></a>
   <a href="https://www.kaggle.com/TWOJ-PROFIL"><img src="https://img.shields.io/badge/Kaggle-a766cc?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
@@ -52,13 +52,6 @@
 - ⚡ Fun fact: **I survived sysop2023**
 - 👯 Looking to collaborate on [an amazing project I found on YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 😉
 
-
-<p align="center">
-  <a href="https://github.com/paulaszka">
-    <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=paulaszka&layout=compact&langs_count=8&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=a766cc&hide_border=true&custom_title=Top%20Languages" />
-  </a>
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/?username=paulaszka&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=a766cc&hide_border=true" />
-</p>
 
 <p align="center">
   <a href="https://github.com/paulaszka">
